@@ -1,0 +1,17 @@
+{
+  "name": "weather-app",
+  "version": "0.0.0",
+  "description": "WeatherApp",
+  "main": "server.js",
+  "author": "Clinton D'Silva",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
