@@ -1,3 +1,0 @@
-C:\Users\Clinton\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.njsproj.CoreCompileInputs.cache
-C:\Users\Clinton\source\repos\WeatherApp\WeatherApp\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\Clinton\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.njsprojAssemblyReference.cache
